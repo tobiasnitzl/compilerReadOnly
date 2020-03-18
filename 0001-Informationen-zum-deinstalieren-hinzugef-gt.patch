@@ -1,0 +1,25 @@
+From d27bc95b81f1111988a59048b90b529fe5c2bd6e Mon Sep 17 00:00:00 2001
+From: Tobias Nitzl <tobi.nitzl@googlemail.com>
+Date: Wed, 18 Mar 2020 19:01:47 +0100
+Subject: [PATCH] =?UTF-8?q?Informationen=20zum=20deinstalieren=20hinzugef?=
+ =?UTF-8?q?=C3=BCgt?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+---
+ INSTALL.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/INSTALL.txt b/INSTALL.txt
+index e8c911f..f70f7d3 100644
+--- a/INSTALL.txt
++++ b/INSTALL.txt
+@@ -2,3 +2,4 @@ Zum installieren der Haskell Plattform unter Debian führen Sie folgendes
+ Kommando aus:
+ 
+ > aptitude install haskell-platform
++> hier stehen informationen zum Deinstalieren
+-- 
+2.25.1
+
